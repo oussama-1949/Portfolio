@@ -1,0 +1,32 @@
+
+.root {
+  background-color: #000;
+}
+@font-face {
+  font-family: "MyRegular";
+  src:
+    local("MyRegular"),
+    url("./Assets//Fonts//Sublima-ExtraBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyThin";
+  src:
+    local("MyThin"),
+    url("./Assets//Fonts//Sublima-ExtraLight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyThinItalic";
+  src:
+    local("MyThinItalic"),
+    url("./Assets//Fonts//Sublima-ExtraLightItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyRegularItalic";
+  src:
+    local("FilsonProHeavy"),
+    url("./Assets//Fonts//Sublima-ExtraBoldItalic.otf") format("opentype");
+}
+
